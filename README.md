@@ -10,8 +10,8 @@
 ¡Hola! Soy GLOOMYY, un estudiante de ingeniería de sistemas de la Universidad Nacional de Colombia. Me apasiona el desarrollo web y tengo experiencia en programación en JavaScript, Java y Python. Además, estoy familiarizado con frameworks como Django y React.js.
 
 ![GitHub](https://img.shields.io/github/followers/GLOOMYY?color=lightgray&label=Followers&logo=GitHub&style=for-the-badge)
-
 ![Languages](https://img.shields.io/static/v1?label=Languages&message=Esp/Eng&color=red&style=for-the-badge)
+![Linkedin](https://www.linkedin.com/in/sebasti%C3%A1n-mesa-460361226/)
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
