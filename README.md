@@ -48,6 +48,12 @@ Estoy interesado en colaborar en proyectos innovadores e interesantes. Si tienes
 Cuando no estoy programando, me gusta explorar nuevas tecnologías y aprender sobre las últimas tendencias en desarrollo. También disfruto leer libros relacionados con la tecnología y los negocios, así como participar en actividades al aire libre.
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y que podamos colaborar juntos en el futuro.
+
+<p align="center">
+  <a href="https://github.com/GLOOMYY">
+    <img src="https://komarev.com/ghpvc/?username=GLOOMYY&color=blue&style=flat)" />
+  </a>
+</p>
 <!--
 ### 📊 My Stats :
 
