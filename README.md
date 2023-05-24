@@ -21,8 +21,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <!--img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/-->&nbsp;
+        <!--img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/-->&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" **width="40" height="40"/>
@@ -42,12 +42,18 @@ Estoy interesado en colaborar en proyectos innovadores e interesantes. Si tienes
 ### 🌐 Idiomas
 
 - Español: Nativo
-- Inglés: ![Nivel A2-B1](ruta/al/logo/esfera.png) ⭕⭕⭕⭕⚫
+- Inglés: ![Nivel A2-B1]
 
 ### 🎯 Intereses y pasatiempos
 
 Cuando no estoy programando, me gusta explorar nuevas tecnologías y aprender sobre las últimas tendencias en desarrollo web. También disfruto leer libros relacionados con la tecnología y los negocios, así como participar en actividades al aire libre.
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y que podamos colaborar juntos en el futuro.
+<!--
+### 📊 My Stats :
 
-![GLOOMYY's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLOOMYY&show_icons=true&bg_color=00000000&)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GLOOMYY&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GLOOMYY&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLOOMYY)](https://github.com/anuraghazra/github-readme-stats)
+-->
