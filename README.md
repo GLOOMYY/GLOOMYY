@@ -17,11 +17,11 @@
 
 - Desarrollo web y aplicaciones interactivas
 - Tecnologías:
-  - <img src="[JavaScript](https://github.com/devicons/devicon/tree/master/icons/javascript)" alt="JavaScript" width="30" height="30"> JavaScript
-  - <img src="[Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)" alt="Java" width="30" height="30"> Java
-  - <img src="[Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)" alt="Python" width="30" height="30"> Python
-  - <img src="[Django](https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg)" alt="Django" width="30" height="30"> Django
-  - <img src="[React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" alt="React.js" width="30" height="30"> React.js
+  - <img src="https://github.com/devicons/devicon/tree/master/icons/javascript" alt="JavaScript" width="30" height="30"> JavaScript
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="30"> Java
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30"> Python
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="30" height="30"> Django
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="30" height="30"> React.js
 
 
 ### 🌱 Colaboraciones
