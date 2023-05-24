@@ -41,7 +41,7 @@ Estoy interesado en colaborar en proyectos innovadores e interesantes. Si tienes
 ### 🌐 Idiomas
 
 - Español: Nativo
-- Inglés: ![Nivel A2-B1]
+- Inglés: Nivel A2-B1
 
 ### 🎯 Intereses y pasatiempos
 
