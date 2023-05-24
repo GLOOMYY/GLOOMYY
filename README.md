@@ -1,5 +1,5 @@
 
-# ¡Hola! Soy GLOOMYY 👋
+# ¡Hola! Soy Sebas <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
 
 ## Desarrollador FullStack | Estudiante de Ingeniería
 
@@ -7,7 +7,7 @@
 
 ### Acerca de mí
 
-¡Hola! Soy GLOOMYY, un estudiante de ingeniería de sistemas de la Universidad Nacional de Colombia. Me apasiona el desarrollo y tengo experiencia en programación en JavaScript, Java y Python. Además, estoy familiarizado con frameworks como Django y React.js.
+¡Hola! Soy Sebas, un estudiante de ingeniería de sistemas de la Universidad Nacional de Colombia. Me apasiona el desarrollo y tengo experiencia en programación en JavaScript, Java y Python. Además, estoy familiarizado con frameworks como Django y React.js.
 
 ![GitHub](https://img.shields.io/github/followers/GLOOMYY?color=lightgray&label=Followers&logo=GitHub&style=for-the-badge)
 ![Languages](https://img.shields.io/static/v1?label=Languages&message=Esp/Eng&color=red&style=for-the-badge)
