@@ -3,7 +3,7 @@
 
 ## Desarrollador FullStack | Estudiante de Ingeniería
 
-![Banner del perfil](ruta/a/la/imagen.png)
+![Banner del perfil](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ### Acerca de mí
 
@@ -11,7 +11,6 @@
 
 ![GitHub](https://img.shields.io/github/followers/GLOOMYY?color=lightgray&label=Followers&logo=GitHub&style=for-the-badge)
 ![Languages](https://img.shields.io/static/v1?label=Languages&message=Esp/Eng&color=red&style=for-the-badge)
-![Linkedin](https://www.linkedin.com/in/sebasti%C3%A1n-mesa-460361226/)
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
